@@ -13,6 +13,7 @@ public class MainTest {
 	public static void display(){
 		System.out.println("Display data....");
 		System.out.println("Test 1...");
+		System.out.println("Test 2...");
 	}
 
 }
